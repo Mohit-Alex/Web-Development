@@ -1,0 +1,4 @@
+Flask==0.10.1
+pymongo==3.0.3
+
+#we've also used other libraries but those were included in programme itself
